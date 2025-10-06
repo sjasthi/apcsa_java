@@ -15,8 +15,6 @@ This repository contains comprehensive learning materials for an introductory Ja
 **Title:** Starting Out with Java: From Control Structures through Objects  
 **Edition:** Sixth Edition  
 **Author:** Tony Gaddis  
-**Institution:** Haywood Community College
-
 ---
 
 ## 🗂️ Course Outline
@@ -57,8 +55,9 @@ This repository contains comprehensive learning materials for an introductory Ja
 ├── Chapter-16-Recursion/
 ├── Labs/
 ├── Assignments/
-├── Quizzes/
-└── Practice-Tests/
+├── Free_Response_Questions/
+└── Multiple_Choice_Questions/
+└── Syllabus_Resources_Planner/
 ```
 
 ---
