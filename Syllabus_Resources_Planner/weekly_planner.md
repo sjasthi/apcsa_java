@@ -16,7 +16,7 @@ This 30-week course plan covers all essential topics for AP Computer Science A, 
 
 ### Textbook Resources
 - **Source Code:** Available at [this link](https://media.pearsoncmg.com/ph/esm/ecs_gaddis_sowjava_cso_7/cw/content/Source_Code.zip)
-- **Setup Instructions:** See `SOURCE_CODE_SETUP.md` in the repository for detailed instructions on downloading and importing source code into Eclipse
+- **Setup Instructions:** See `how_to_import_source_code_from_textbook.md` in the repository for detailed instructions on downloading and importing source code into Eclipse
 
 ---
 
