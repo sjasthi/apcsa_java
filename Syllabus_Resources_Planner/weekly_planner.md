@@ -6,6 +6,20 @@ This 30-week course plan covers all essential topics for AP Computer Science A, 
 
 ---
 
+## 📖 Required Textbook
+
+**Title:** Starting Out with Java: From Control Structures through Objects  
+**Edition:** Sixth Edition  
+**Author:** Tony Gaddis  
+**Institution:** Haywood Community College  
+**Publisher:** Pearson
+
+### Textbook Resources
+- **Source Code:** Available at [this link](https://media.pearsoncmg.com/ph/esm/ecs_gaddis_sowjava_cso_7/cw/content/Source_Code.zip)
+- **Setup Instructions:** See `SOURCE_CODE_SETUP.md` in the repository for detailed instructions on downloading and importing source code into Eclipse
+
+---
+
 ## 🗓️ Weekly Schedule
 
 | Week | Chapter | Topic | Lab | Quiz | Assignment |
@@ -124,31 +138,6 @@ Capstone demonstration
 
 ---
 
-## 📊 Exam Preparation Breakdown
-
-### **Free Response Questions (Weeks 20-24)**
-Practice FRQs from past AP exams, organized by year:
-
-| Week | Years Covered | Focus |
-|------|---------------|-------|
-| 20 | 2025 | Most recent exam format |
-| 21 | 2024 & 2023 | Recent patterns |
-| 22 | 2022 & 2021 | COVID-era adjustments |
-| 23 | 2020 & 2019 | Pre-COVID format |
-| 24 | 2018 & 2017 | Historical perspective |
-
-### **Practice Tests (Weeks 25-28)**
-Full-length AP Computer Science A practice exams:
-
-| Week | Test | Format |
-|------|------|--------|
-| 25 | College Board Official | Current exam format |
-| 26 | 2015 Practice Test | 40 MCQ + 4 FRQ |
-| 27 | 2016 Practice Test | 40 MCQ + 4 FRQ |
-| 28 | 2018 Practice Test | 40 MCQ + 4 FRQ |
-
----
-
 ## 💡 Study Tips by Phase
 
 ### **Weeks 1-9: Building Foundations**
@@ -220,7 +209,6 @@ Full-length AP Computer Science A practice exams:
 
 ---
 
-
 ## 🔄 Flexibility Note
 
 This schedule is a general guideline. The pace may be adjusted based on:
@@ -230,7 +218,6 @@ This schedule is a general guideline. The pace may be adjusted based on:
 - Time needed for deeper exploration of challenging topics
 
 ---
-
 
 ## ✅ Student Success Checklist
 
