@@ -52,7 +52,7 @@ boolean isStudent = true;
 
 ### Common Data Types
 
-| Python | Java | What it stores |
+| Python | Java | What it stores |  Variable type | 
 |--------|------|----------------|
 | `int` | `int` | Whole numbers (-2 billion to 2 billion) | primitive variable | 
 | `float` | `float` | Decimal numbers |  primitive variable | 
