@@ -101,6 +101,7 @@ comment
 **Python:**
 ```python
 name = input("What's your name? ")
+age = int(input("What's your age? "))
 print("Hello, " + name)
 print(f"You are {age} years old")
 ```
