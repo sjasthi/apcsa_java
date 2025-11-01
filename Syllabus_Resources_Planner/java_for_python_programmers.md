@@ -55,10 +55,16 @@ boolean isStudent = true;
 | Python | Java | What it stores |
 |--------|------|----------------|
 | `int` | `int` | Whole numbers (-2 billion to 2 billion) |
-| `float` | `double` | Decimal numbers |
+| `float` | `float` | Decimal numbers |
 | `str` | `String` | Text (note: capital S!) |
 | `bool` | `boolean` | True/False (lowercase in Java!) |
 | `list` | `ArrayList` or `[]` | Collections of items |
+| - | `short` | small integer |
+| - | `byte` | byte integer |
+| - | `long` | long integer |
+|- | `doulbe` | Decimal numbers |
+| - | `char` | A single character in single quote|
+
 
 **Important:** In Java, `True` and `False` are written as `true` and `false` (lowercase).
 
