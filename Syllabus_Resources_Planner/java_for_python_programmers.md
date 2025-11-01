@@ -88,6 +88,12 @@ comment
 Multi-line
 comment
 */
+
+/**
+JavaDoc style
+comment
+*/
+
 ```
 
 ## Input and Output
