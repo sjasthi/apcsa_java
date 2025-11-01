@@ -133,7 +133,7 @@ Most operators are the same, but there are a few differences:
 | Equal to | `==` | `==` |
 | Not equal | `!=` | `!=` |
 | And | `and` | `&&` |
-| Or | `or` | `||` |
+| Or | `or` | `|` |
 | Not | `not` | `!` |
 
 ## If Statements
